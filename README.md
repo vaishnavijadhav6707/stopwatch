@@ -1,0 +1,1 @@
+interactive stopwatch built using HTML, CSS, and JavaScript. It allows users to start, pause, reset, and record lap times with accurate time tracking. The user-friendly interface updates in real-time, showcasing DOM manipulation and JavaScript event handling
